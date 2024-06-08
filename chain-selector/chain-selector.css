@@ -1,0 +1,9 @@
+div porpotioned {
+    height: auto;
+    width: 300px;
+}
+
+div disporpotioned{
+    height: 200px;
+    width: 400px;
+}
