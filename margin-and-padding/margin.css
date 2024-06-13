@@ -1,0 +1,30 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+.one{
+    width: 350px;
+    margin: 12px;
+    padding: 32px;
+    background-color: #d87093;
+    border: 5px solid #000000;
+}
+
+.two{
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #add8e6;
+    padding: auto;
+    border: 5px solid #8a2be8;
+}
+
+.three{
+    width: 200px;
+    margin-top: 48px;
+    margin-left: 230px;
+    padding: 32px;
+    background-color: #008000;
+    border: 5px solid #ffb6c1;
+}
